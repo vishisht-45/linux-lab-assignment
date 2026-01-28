@@ -11,9 +11,6 @@ Explanation:
 This command displays the time elapsed since the system was last booted along with basic system load information.
 
 
-
-
-
 \## 2. User Process Listing
 
 \*\*Command:\*\*
@@ -157,4 +154,5 @@ ncdu ~
 Explanation:
 
 The ncdu command provides an interactive, visual representation of disk usage, helping identify large files and directories consuming disk space.
+
 
